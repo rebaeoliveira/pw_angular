@@ -1,7 +1,7 @@
 # Instalação:
-npm install
-npm install -g @angular/cli
-ng serve --open
+- npm install
+- npm install -g @angular/cli
+- ng serve --open
 
 # Web
 
